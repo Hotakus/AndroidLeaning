@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidLeaning</string>
+    <string name="textview_str">Hello world</string>
 </resources>
